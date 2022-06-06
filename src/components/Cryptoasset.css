@@ -1,0 +1,29 @@
+.cryptoasset {
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 84px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.container {
+  background-color: #fff;
+  width: 80%;
+  margin-left: 10%;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  padding: 97px 77px;
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 65px;
+}
+.middle {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 65px;
+}
+.bottom {
+  display: flex;
+  justify-content: space-between;
+}

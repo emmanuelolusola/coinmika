@@ -1,0 +1,57 @@
+.main-container {
+  box-sizing: border-box;
+  background-color: #7e45e9;
+  display: flex;
+  color: #fff;
+  padding: 50px 96px 100px 77px;
+  align-items: center;
+}
+.main-left h1 {
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 84px;
+  margin-bottom: 25px;
+}
+.main-left p {
+  font-size: 18px;
+  line-height: 27px;
+  margin-bottom: 32px;
+}
+.download button {
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  text-align: left;
+  width: 224px;
+  height: 67px;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  margin-right: 13px;
+  border-radius: 5px;
+}
+.download {
+  display: flex;
+}
+.download h5 {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 135%;
+}
+.download p {
+  font-size: 13px;
+  line-height: 135%;
+  margin-bottom: 0;
+}
+.main-left h6 {
+  background-color: red;
+  padding: 3px 5px;
+  border-radius: 5px;
+  margin-left: 155px;
+  width: 72px;
+  height: 16px;
+  font-weight: 600;
+  font-size: 8px;
+  line-height: 130.5%;
+  margin-bottom: 9px;
+}
